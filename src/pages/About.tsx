@@ -115,7 +115,7 @@ export default function About() {
           <div className="flex-1 relative">
             <div className="aspect-square rounded-[48px] overflow-hidden shadow-2xl shadow-slate-200">
               <img 
-                src="" 
+                src="https://www.tech-mag.net/%D8%B1%D8%A4%D9%8A%D8%A9-2030-%D8%AA%D9%8F%D8%AB%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D9%8B%D8%A7-%D8%AC%D8%AF%D9%8A/" 
                 alt="Education" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
