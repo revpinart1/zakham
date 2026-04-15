@@ -115,7 +115,7 @@ export default function About() {
           <div className="flex-1 relative">
             <div className="aspect-square rounded-[48px] overflow-hidden shadow-2xl shadow-slate-200">
               <img 
-                src="" 
+                src="https://www.arageek.com/_next/image?url=https%3A%2F%2Fcdn.arageek.com%2Fmagazine%2FWebsite-Temps.-4-2.png&w=1920&q=75" 
                 alt="Education" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
